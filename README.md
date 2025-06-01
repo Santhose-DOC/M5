@@ -134,7 +134,7 @@ int main()
  
 
  ## RESULT
- 
+ Thus the program has been executed successfully.
 
 
 # EX-24-STRINGS
